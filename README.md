@@ -1,1 +1,1 @@
-Dummy dataset penjualan Walmart dalam format CSV untuk analisis dan visualisasi data menggunakan Power BI.
+Dummy dataset format CSV untuk analisis dan visualisasi data menggunakan Power BI.
